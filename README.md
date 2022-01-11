@@ -32,5 +32,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/enzo2805)
-- Twitter - [@yourusername](https://twitter.com/Maxl_Rodriguez)
+- Frontend Mentor - [@enzo2805](https://www.frontendmentor.io/profile/enzo2805)
+- Twitter - [@maxi_rodriguez](https://twitter.com/Maxl_Rodriguez)
