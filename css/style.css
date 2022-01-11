@@ -1,0 +1,56 @@
+
+.body{
+    background-color: hsl(185, 75%, 39%);
+    background-image: url('./../images/bg-pattern-top.svg'), url('./../images/bg-pattern-bottom.svg');
+    background-position: -90% 50%, 165% -40%;
+    background-repeat: no-repeat, no-repeat;
+}
+
+@media (max-width: 375px) {
+    .body{
+        background-color: hsl(185, 75%, 39%);
+        background-image: url('./../images/bg-pattern-top.svg'), url('./../images/bg-pattern-bottom.svg');
+        background-position: 128% 65%, -20% -30%;
+        background-repeat: no-repeat, no-repeat;
+    }
+}
+
+.profile-card{
+    width: 20rem;
+    border-radius: 1.75rem !important;
+}
+
+.card-img-header{
+    width: 20rem;
+    border-top-left-radius: 1.75rem;
+    border-top-right-radius: 1.75rem;
+}
+
+span.gray{
+    color: hsl(0, 0%, 59%);
+    text-align: center;
+    size: 0.5rem;
+    font-weight: 400;
+    font-family: 'Kumbh Sans', sans-serif;;
+}
+
+span.bold{
+    color: hsl(229, 23%, 23%);
+    margin-top: -2.5rem;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: x-large;
+}
+
+.data-container{
+    text-align: center;
+}
+
+.card-body{
+    border-radius: 15px 15px 0 0;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
